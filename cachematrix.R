@@ -4,7 +4,6 @@
 # both functions strongly based on on the examples of the R-programmin assignment on Courseer
 # (https://www.coursera.org/learn/r-programming/peer/tNy8H/programming-assignment-2-lexical-scoping):
 
-
 ## Write a short comment describing this function
 #
 # creates a list providing functions for matrix manipulation
